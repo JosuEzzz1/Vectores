@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif ;
+    font-size: 20px;
+    margin-bottom: 40px;
+    background-color: #ADD8E6;
+    color: #393939;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.7rem;
+}
+
+.container {
+    width: 720px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.553);
+    border-radius: 10px;
+    padding: 20px 50px;
+    background-color: rgba(255, 245, 245, 0.956);
+    padding-bottom: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+}
+
+.imagenMagnitud, .imagenAngulo {
+    display: block;
+    margin: 0 auto;
+}
+
+.imagenDireccion {
+    display: block;
+    margin: 0 auto;
+    height: 100px;
+}
+
+.imagenGraficaR3 {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+}
+
+li {
+    margin-bottom: 10px;
+}
